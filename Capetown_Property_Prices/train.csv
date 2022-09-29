@@ -1,0 +1,1352 @@
+house-id,area,bathroom,bedroom,buildingSize,data-date,data-isonshow,data-location,data-url,erfSize,garage,type,data-price
+1,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5100000
+2,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2100000
+3,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4100000
+4,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1100000
+5,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,1200000
+6,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5200000
+7,northern-suburbs,1,2,600,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3100000
+8,boland-winelands,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+9,boland-winelands,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1300000
+10,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,1400000
+11,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5300000
+12,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4300000
+13,boland-winelands,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2200000
+14,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,2300000
+15,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,2400000
+16,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5400000
+17,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5500000
+18,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2500000
+19,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3200000
+20,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3300000
+21,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4400000
+22,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6100000
+23,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2600000
+24,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3400000
+25,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,2700000
+26,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4500000
+27,northern-suburbs,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7100000
+28,boland-winelands,2,2,300,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2800000
+29,boland-winelands,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,3500000
+30,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,2900000
+31,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4600000
+32,northern-suburbs,1,6,600,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8000000
+33,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2100000
+34,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3600000
+35,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2200000
+36,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5500000
+37,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2300000
+38,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4700000
+39,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5600000
+40,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,2400000
+41,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6100000
+42,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3700000
+43,boland-winelands,2,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,7200000
+44,boland-winelands,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8000000
+45,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+46,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5700000
+47,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4800000
+48,boland-winelands,1,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,6200000
+49,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1250000
+50,northern-suburbs,2,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+51,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5800000
+52,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,0,house,5900000
+53,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2500000
+54,boland-winelands,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,2600000
+55,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+56,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3800000
+57,northern-suburbs,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6300000
+58,boland-winelands,2,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4900000
+59,boland-winelands,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1250000
+60,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+61,boland-winelands,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5100000
+62,northern-suburbs,1,5,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,0,house,7100000
+63,boland-winelands,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2800000
+64,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3100000
+65,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,1100000
+66,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4100000
+67,northern-suburbs,1,5,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7900000
+68,boland-winelands,1,5,300,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,5100000
+69,boland-winelands,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1100000
+70,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2100000
+71,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2200000
+72,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,0,house,2200000
+73,boland-winelands,2,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3200000
+74,boland-winelands,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1200000
+75,northern-suburbs,4,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,2200000
+76,boland-winelands,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3200000
+77,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3300000
+78,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2300000
+79,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,3300000
+80,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2300000
+81,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5300000
+82,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4300000
+83,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3300000
+84,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1300000
+85,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2300000
+86,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3400000
+87,northern-suburbs,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5400000
+88,boland-winelands,2,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+89,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4400000
+90,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2400000
+91,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4400000
+92,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,1,house,6400000
+93,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+94,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2400000
+95,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2400000
+96,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5400000
+97,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7400000
+98,boland-winelands,4,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+99,boland-winelands,5,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1400000
+100,northern-suburbs,2,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,1,apartment,500000
+101,boland-winelands,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3400000
+102,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7500000
+103,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3500000
+104,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,1500000
+105,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+106,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5500000
+107,northern-suburbs,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2500000
+108,boland-winelands,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,5500000
+109,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+110,northern-suburbs,5,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,5500000
+111,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,6500000
+112,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2500000
+113,boland-winelands,1,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4500000
+114,northern-suburbs,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+115,boland-winelands,4,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+116,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2500000
+117,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4500000
+118,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3500000
+119,northern-suburbs,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+120,boland-winelands,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+121,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5600000
+122,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5600000
+123,boland-winelands,2,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3600000
+124,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,1600000
+125,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+126,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+127,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6600000
+128,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+129,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+130,northern-suburbs,2,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+131,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+132,northern-suburbs,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7600000
+133,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2600000
+134,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4600000
+135,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2600000
+136,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+137,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,1,house,8600000
+138,boland-winelands,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,1,apartment,4600000
+139,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+140,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2600000
+141,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+142,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2600000
+143,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3600000
+144,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+145,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2600000
+146,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+147,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3600000
+148,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+149,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,4700000
+150,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2700000
+151,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5700000
+152,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,1,house,4700000
+153,boland-winelands,2,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4700000
+154,boland-winelands,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1700000
+155,northern-suburbs,2,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2700000
+156,boland-winelands,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5700000
+157,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5700000
+158,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4700000
+159,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1700000
+160,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2700000
+161,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,7700000
+162,northern-suburbs,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6700000
+163,boland-winelands,1,4,300,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4700000
+164,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1700000
+165,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2700000
+166,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3700000
+167,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7700000
+168,boland-winelands,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4700000
+169,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+170,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2800000
+171,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5800000
+172,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8000000
+173,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+174,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+175,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2800000
+176,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5800000
+177,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1500000
+178,boland-winelands,4,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+179,boland-winelands,5,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,1800000
+180,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3800000
+181,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3800000
+182,northern-suburbs,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2800000
+183,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+184,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+185,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4800000
+186,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5800000
+187,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3800000
+188,boland-winelands,2,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,1,apartment,4800000
+189,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+190,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4800000
+191,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3800000
+192,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4800000
+193,boland-winelands,1,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+194,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1900000
+195,northern-suburbs,5,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4900000
+196,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5900000
+197,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5900000
+198,boland-winelands,4,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4900000
+199,boland-winelands,5,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1900000
+200,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3900000
+201,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5900000
+202,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6900000
+203,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4900000
+204,boland-winelands,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,1900000
+205,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2900000
+206,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5900000
+207,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,1,house,7900000
+208,boland-winelands,2,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4900000
+209,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3900000
+210,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2900000
+211,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5900000
+212,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8900000
+213,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4900000
+214,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1900000
+215,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2000000
+216,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+217,northern-suburbs,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1000000
+218,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+219,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+220,northern-suburbs,4,4,600,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2000000
+221,boland-winelands,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+222,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+223,boland-winelands,2,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+224,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,1000000
+225,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,2000000
+226,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+227,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+228,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+229,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+230,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2000000
+231,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+232,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+233,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+234,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+235,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3000000
+236,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+237,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+238,boland-winelands,2,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+239,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+240,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,apartment,500000
+241,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+242,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+243,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+244,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+245,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,1,apartment,500000
+246,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,2000000
+247,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+248,boland-winelands,1,5,300,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+249,boland-winelands,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,1000000
+250,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+251,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5000000
+252,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1000000
+253,boland-winelands,2,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,8000000
+254,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+255,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6000000
+256,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5100000
+257,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1100000
+258,boland-winelands,1,2,600,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4100000
+259,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1100000
+260,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2100000
+261,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5100000
+262,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2100000
+263,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4100000
+264,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1100000
+265,northern-suburbs,2,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3100000
+266,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5100000
+267,northern-suburbs,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3100000
+268,boland-winelands,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4100000
+269,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1100000
+270,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2100000
+271,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5100000
+272,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4100000
+273,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4100000
+274,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,5100000
+275,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2100000
+276,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5100000
+277,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5200000
+278,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+279,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1200000
+280,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2200000
+281,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5200000
+282,northern-suburbs,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6200000
+283,boland-winelands,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+284,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1200000
+285,northern-suburbs,2,4,700,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2200000
+286,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5200000
+287,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7200000
+288,boland-winelands,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+289,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1200000
+290,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3200000
+291,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5200000
+292,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8200000
+293,boland-winelands,4,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+294,boland-winelands,5,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,0,apartment,5200000
+295,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+296,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5200000
+297,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1200000
+298,boland-winelands,5,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+299,boland-winelands,4,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1200000
+300,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+301,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5300000
+302,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2300000
+303,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4300000
+304,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1300000
+305,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6300000
+306,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5300000
+307,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3300000
+308,boland-winelands,3,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4300000
+309,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1300000
+310,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2300000
+311,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5300000
+312,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4300000
+313,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4300000
+314,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1300000
+315,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2300000
+316,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5300000
+317,northern-suburbs,1,5,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5300000
+318,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4300000
+319,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1300000
+320,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3300000
+321,boland-winelands,3,3,600,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5400000
+322,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6400000
+323,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+324,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4400000
+325,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3400000
+326,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5400000
+327,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7400000
+328,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+329,boland-winelands,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1400000
+330,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3400000
+331,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5400000
+332,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1400000
+333,boland-winelands,1,5,300,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+334,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1400000
+335,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6400000
+336,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5400000
+337,northern-suburbs,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2400000
+338,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4400000
+339,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1400000
+340,northern-suburbs,4,4,500,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3400000
+341,boland-winelands,3,3,600,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5400000
+342,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3400000
+343,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+344,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1400000
+345,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3400000
+346,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2400000
+347,northern-suburbs,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4400000
+348,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+349,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1400000
+350,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2400000
+351,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5400000
+352,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5400000
+353,boland-winelands,3,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4400000
+354,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+355,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3500000
+356,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5500000
+357,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6500000
+358,boland-winelands,1,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4500000
+359,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+360,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4500000
+361,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5500000
+362,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7500000
+363,boland-winelands,4,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4500000
+364,boland-winelands,5,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+365,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4500000
+366,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5500000
+367,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8000000
+368,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3500000
+369,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+370,northern-suburbs,4,4,500,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6500000
+371,boland-winelands,3,3,600,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,11,house,5500000
+372,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1500000
+373,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4500000
+374,boland-winelands,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1500000
+375,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,5500000
+376,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5500000
+377,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2500000
+378,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4500000
+379,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2500000
+380,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,500000
+381,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,5500000
+382,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3500000
+383,boland-winelands,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4500000
+384,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+385,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2600000
+386,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+387,northern-suburbs,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4600000
+388,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+389,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+390,northern-suburbs,4,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3600000
+391,boland-winelands,3,3,500,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6600000
+392,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5600000
+393,boland-winelands,3,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+394,boland-winelands,1,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+395,northern-suburbs,5,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4600000
+396,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+397,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6600000
+398,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+399,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+400,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2600000
+401,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5600000
+402,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7600000
+403,boland-winelands,3,4,200,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4600000
+404,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1600000
+405,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6600000
+406,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5600000
+407,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8000000
+408,boland-winelands,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+409,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3600000
+410,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,1700000
+411,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5700000
+412,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2700000
+413,boland-winelands,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4700000
+414,boland-winelands,1,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1700000
+415,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,1700000
+416,boland-winelands,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5700000
+417,northern-suburbs,1,5,700,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2700000
+418,boland-winelands,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4700000
+419,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1700000
+420,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6700000
+421,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5700000
+422,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3700000
+423,boland-winelands,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4700000
+424,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3700000
+425,northern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2700000
+426,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5700000
+427,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4700000
+428,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+429,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+430,northern-suburbs,2,4,700,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2800000
+431,boland-winelands,3,3,800,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5800000
+432,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5800000
+433,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+434,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+435,northern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,4800000
+436,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5800000
+437,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6800000
+438,boland-winelands,3,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+439,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+440,northern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,2800000
+441,boland-winelands,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5800000
+442,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7800000
+443,boland-winelands,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4800000
+444,boland-winelands,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+445,northern-suburbs,4,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,3800000
+446,boland-winelands,3,3,700,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,5800000
+447,northern-suburbs,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8000000
+448,boland-winelands,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4800000
+449,boland-winelands,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1800000
+450,northern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6900000
+451,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1900000
+452,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1900000
+453,southern-peninsula,3,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+454,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1900000
+455,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,apartment,6900000
+456,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2900000
+457,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1900000
+458,southern-peninsula,1,5,200,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1900000
+459,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2900000
+460,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3900000
+461,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1900000
+462,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4900000
+463,southern-peninsula,4,4,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2900000
+464,atlantic-seaboard,5,2,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3900000
+465,atlantic-seaboard,4,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5900000
+466,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,2900000
+467,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6900000
+468,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3900000
+469,atlantic-seaboard,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4900000
+470,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+471,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+472,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+473,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+474,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+475,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+476,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,4000000
+477,atlantic-seaboard,1,6,700,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+478,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+479,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6000000
+480,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+481,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+482,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+483,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,1000000
+484,atlantic-seaboard,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7000000
+485,atlantic-seaboard,6,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+486,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+487,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1695000
+488,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+489,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8000000
+490,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+491,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+492,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+493,southern-peninsula,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+494,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2100000
+495,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4100000
+496,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,8100000
+497,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+498,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4100000
+499,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3100000
+500,atlantic-seaboard,4,4,700,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4100000
+501,southern-peninsula,3,3,600,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1100000
+502,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4100000
+503,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+504,atlantic-seaboard,2,3,200,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4100000
+505,atlantic-seaboard,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3100000
+506,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2100000
+507,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4100000
+508,southern-peninsula,3,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,1100000
+509,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5100000
+510,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5100000
+511,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3100000
+512,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6100000
+513,southern-peninsula,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2100000
+514,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6100000
+515,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3100000
+516,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,4100000
+517,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4100000
+518,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3100000
+519,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7100000
+520,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5100000
+521,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5200000
+522,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6200000
+523,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+524,atlantic-seaboard,3,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8200000
+525,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3200000
+526,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6200000
+527,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4200000
+528,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,520000
+529,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2200000
+530,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5200000
+531,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7200000
+532,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6200000
+533,southern-peninsula,3,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1200000
+534,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3200000
+535,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,1200000
+536,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,8000000
+537,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4200000
+538,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2200000
+539,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4200000
+540,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3200000
+541,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1200000
+542,atlantic-seaboard,1,2,600,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4200000
+543,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3200000
+544,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5200000
+545,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5200000
+546,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2200000
+547,atlantic-seaboard,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6200000
+548,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4200000
+549,atlantic-seaboard,2,1,200,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6200000
+550,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3200000
+551,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3200000
+552,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4200000
+553,southern-peninsula,1,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,500000
+554,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7300000
+555,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5300000
+556,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,4300000
+557,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6300000
+558,southern-peninsula,7,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1300000
+559,atlantic-seaboard,6,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8300000
+560,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3300000
+561,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5300000
+562,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4200000
+563,southern-peninsula,5,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2300000
+564,atlantic-seaboard,4,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2300000
+565,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4300000
+566,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6300000
+567,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4300000
+568,southern-peninsula,2,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3300000
+569,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3300000
+570,atlantic-seaboard,4,4,700,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4300000
+571,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7400000
+572,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5400000
+573,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4400000
+574,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4400000
+575,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4400000
+576,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+577,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5400000
+578,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,500000
+579,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5400000
+580,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4400000
+581,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,1400000
+582,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5400000
+583,southern-peninsula,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1400000
+584,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6400000
+585,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3400000
+586,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2400000
+587,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4400000
+588,southern-peninsula,3,5,200,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2400000
+589,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7400000
+590,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5500000
+591,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3500000
+592,atlantic-seaboard,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6500000
+593,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3500000
+594,atlantic-seaboard,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8000000
+595,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,1,house,3500000
+596,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4500000
+597,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4500000
+598,southern-peninsula,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4500000
+599,atlantic-seaboard,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2500000
+600,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5500000
+601,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+602,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+603,southern-peninsula,3,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,500000
+604,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+605,atlantic-seaboard,5,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+606,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+607,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+608,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+609,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+610,atlantic-seaboard,4,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+611,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+612,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+613,southern-peninsula,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+614,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+615,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,1,house,3000000
+616,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+617,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+618,southern-peninsula,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+619,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6000000
+620,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+621,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+622,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+623,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4000000
+624,atlantic-seaboard,3,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7000000
+625,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+626,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+627,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+628,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+629,atlantic-seaboard,2,3,200,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8000000
+630,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+631,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,3000000
+632,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+633,southern-peninsula,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+634,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+635,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+636,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+637,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+638,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+639,atlantic-seaboard,3,1,300,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+640,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+641,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+642,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+643,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+644,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+645,atlantic-seaboard,7,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+646,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+647,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+648,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+649,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+650,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,5000000
+651,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+652,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+653,southern-peninsula,2,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+654,atlantic-seaboard,3,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6000000
+655,atlantic-seaboard,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+656,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+657,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+658,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+659,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7000000
+660,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+661,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+662,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+663,southern-peninsula,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+664,atlantic-seaboard,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8000000
+665,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,3000000
+666,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+667,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+668,southern-peninsula,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+669,atlantic-seaboard,3,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+670,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+671,southern-peninsula,3,3,700,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+672,atlantic-seaboard,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+673,southern-peninsula,4,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+674,atlantic-seaboard,5,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+675,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+676,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+677,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+678,southern-peninsula,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+679,atlantic-seaboard,2,1,400,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+680,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+681,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+682,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+683,southern-peninsula,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+684,atlantic-seaboard,2,2,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+685,atlantic-seaboard,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,4000000
+686,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+687,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+688,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+689,atlantic-seaboard,3,2,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+690,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+691,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+692,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+693,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+694,atlantic-seaboard,2,2,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+695,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+696,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+697,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+698,southern-peninsula,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+699,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+700,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,3000000
+701,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+702,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+703,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+704,atlantic-seaboard,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+705,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+706,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+707,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+708,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+709,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+710,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+711,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+712,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+713,southern-peninsula,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+714,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+715,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+716,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+717,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+718,southern-peninsula,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+719,atlantic-seaboard,3,4,500,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+720,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,3000000
+721,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+722,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+723,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+724,atlantic-seaboard,2,4,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+725,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+726,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+727,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+728,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+729,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+730,atlantic-seaboard,4,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+731,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+732,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+733,southern-peninsula,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+734,atlantic-seaboard,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+735,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,5000000
+736,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+737,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+738,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+739,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+740,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+741,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+742,atlantic-seaboard,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+743,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+744,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+745,atlantic-seaboard,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+746,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+747,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+748,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+749,atlantic-seaboard,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+750,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+751,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+752,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+753,southern-peninsula,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+754,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+755,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,4000000
+756,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+757,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+758,southern-peninsula,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+759,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+760,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+761,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+762,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+763,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+764,atlantic-seaboard,3,4,400,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+765,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+766,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+767,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+768,southern-peninsula,4,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+769,atlantic-seaboard,5,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+770,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+771,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+772,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+773,southern-peninsula,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+774,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+775,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,2000000
+776,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+777,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+778,southern-peninsula,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+779,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+780,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+781,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+782,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+783,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+784,atlantic-seaboard,3,4,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+785,southern-peninsula,2,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6000000
+786,atlantic-seaboard,3,3,500,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+787,southern-peninsula,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+788,atlantic-seaboard,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,3000000
+789,atlantic-seaboard,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+790,southern-peninsula,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+791,atlantic-seaboard,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+792,southern-peninsula,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+793,atlantic-seaboard,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+794,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+795,southern-peninsula,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,0,house,5000000
+796,atlantic-seaboard,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+797,southern-peninsula,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+798,atlantic-seaboard,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+799,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+800,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+801,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+802,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+803,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+804,atlantic-seaboard,2,4,500,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+805,atlantic-seaboard,4,4,700,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+806,southern-peninsula,3,3,500,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+807,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+808,southern-peninsula,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4000000
+809,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+810,atlantic-seaboard,7,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+811,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+812,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+813,southern-peninsula,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+814,atlantic-seaboard,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+815,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+816,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+817,atlantic-seaboard,1,5,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+818,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+819,atlantic-seaboard,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+820,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,1,house,3000000
+821,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+822,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+823,southern-peninsula,2,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+824,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+825,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+826,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+827,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+828,southern-peninsula,1,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+829,atlantic-seaboard,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+830,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+831,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+832,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+833,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,4000000
+834,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+835,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+836,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+837,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+838,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+839,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+840,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+841,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,1,house,2000000
+842,atlantic-seaboard,1,2,800,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+843,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+844,atlantic-seaboard,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+845,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+846,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+847,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+848,southern-peninsula,4,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+849,atlantic-seaboard,5,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+850,atlantic-seaboard,6,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+851,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+852,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+853,southern-peninsula,3,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,3000000
+854,atlantic-seaboard,2,2,600,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+855,atlantic-seaboard,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+856,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,5000000
+857,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+858,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+859,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+860,atlantic-seaboard,5,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+861,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+862,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+863,southern-peninsula,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+864,atlantic-seaboard,3,9,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+865,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+866,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+867,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+868,southern-peninsula,1,9,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+869,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+870,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+871,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,8000000
+872,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+873,southern-peninsula,3,8,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+874,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+875,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+876,southern-peninsula,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,1000000
+877,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+878,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,3000000
+879,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+880,atlantic-seaboard,2,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+881,southern-peninsula,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+882,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+883,southern-peninsula,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+884,atlantic-seaboard,2,8,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+885,atlantic-seaboard,4,3,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+886,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,3000000
+887,atlantic-seaboard,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+888,southern-peninsula,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,500000
+889,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+890,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+891,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+892,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+893,southern-peninsula,1,8,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+894,atlantic-seaboard,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+895,atlantic-seaboard,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+896,southern-peninsula,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+897,atlantic-seaboard,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+898,southern-peninsula,1,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,2000000
+899,atlantic-seaboard,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+900,atlantic-seaboard,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+901,southern-suburbs,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+902,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+903,southern-suburbs,3,8,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+904,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+905,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+906,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+907,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+908,southern-suburbs,1,7,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+909,city-bowl,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+910,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+911,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,5000000
+912,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+913,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+914,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+915,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6000000
+916,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+917,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+918,southern-suburbs,3,7,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+919,city-bowl,2,1,700,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+920,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+921,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+922,city-bowl,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+923,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,0,apartment,3000000
+924,city-bowl,3,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+925,southern-suburbs,3,4,600,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+926,southern-suburbs,3,3,500,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+927,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+928,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+929,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+930,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6000000
+931,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,7000000
+932,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+933,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+934,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+935,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,8000000
+936,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+937,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+938,southern-suburbs,1,7,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+939,city-bowl,3,7,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+940,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+941,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+942,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+943,southern-suburbs,3,7,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+944,city-bowl,2,7,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+945,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+946,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+947,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+948,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+949,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+950,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,7000000
+951,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,2000000
+952,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+953,southern-suburbs,3,7,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,3000000
+954,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+955,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+956,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+957,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+958,southern-suburbs,3,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+959,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+960,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+961,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+962,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+963,southern-suburbs,3,3,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,5000000
+964,city-bowl,2,6,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+965,southern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+966,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+967,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+968,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,6000000
+969,city-bowl,2,3,500,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+970,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+971,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,5000000
+972,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+973,southern-suburbs,3,6,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,7000000
+974,city-bowl,2,6,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+975,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6000000
+976,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,7000000
+977,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+978,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,8000000
+979,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+980,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+981,southern-suburbs,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+982,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+983,southern-suburbs,3,6,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+984,city-bowl,2,6,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+985,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+986,southern-suburbs,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+987,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+988,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,3000000
+989,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+990,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+991,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+992,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+993,southern-suburbs,3,6,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+994,city-bowl,2,6,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+995,southern-suburbs,4,2,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+996,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,5000000
+997,city-bowl,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+998,southern-suburbs,3,6,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,5000000
+999,city-bowl,2,6,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+1000,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1001,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1002,city-bowl,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1003,southern-suburbs,3,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,6000000
+1004,city-bowl,2,0,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1005,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1006,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1007,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1008,southern-suburbs,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1009,city-bowl,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,4,apartment,3000000
+1010,southern-suburbs,2,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1011,southern-suburbs,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1012,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1013,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1014,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1015,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1016,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,5000000
+1017,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1018,southern-suburbs,3,0,200,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1019,city-bowl,2,2,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1020,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1021,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1022,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1695000
+1023,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1024,city-bowl,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1025,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1026,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+1027,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1028,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1029,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1030,southern-suburbs,5,4,500,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6000000
+1031,southern-suburbs,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1032,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1033,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,3000000
+1034,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1035,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+1036,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+1037,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1038,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1039,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1040,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+1041,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,2000000
+1042,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1043,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1044,city-bowl,2,4,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1045,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+1046,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+1047,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1048,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1049,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1050,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1051,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1052,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1053,southern-suburbs,3,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,2000000
+1054,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1055,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1056,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1057,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1058,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1059,city-bowl,2,3,100,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1060,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1061,southern-suburbs,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1062,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1063,southern-suburbs,2,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1064,city-bowl,3,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1065,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,3,house,2000000
+1066,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1067,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1068,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1069,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1070,southern-suburbs,6,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1071,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1072,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1073,southern-suburbs,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1074,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,4,apartment,3000000
+1075,southern-suburbs,4,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1076,southern-suburbs,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+1077,city-bowl,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1078,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1079,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1080,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1081,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,3,house,3000000
+1082,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1083,southern-suburbs,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1084,city-bowl,3,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1085,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1086,southern-suburbs,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1087,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1088,southern-suburbs,1,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1089,city-bowl,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6000000
+1090,southern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+1091,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,6000000
+1092,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1093,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1094,city-bowl,2,2,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,7000000
+1095,southern-suburbs,4,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1096,southern-suburbs,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1097,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1098,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,2000000
+1099,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,8000000
+1100,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1101,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+1102,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1103,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1104,city-bowl,2,3,200,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1105,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1106,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1107,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1108,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1109,city-bowl,2,3,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1110,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1111,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,4,house,5000000
+1112,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+1113,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1114,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1115,southern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1116,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1117,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1118,southern-suburbs,1,3,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,3000000
+1119,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1120,southern-suburbs,5,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1121,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5000000
+1122,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1123,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1124,city-bowl,2,3,200,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1125,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1126,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1127,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,4,house,5000000
+1128,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1129,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1130,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1131,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+1132,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1133,southern-suburbs,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1134,city-bowl,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1135,southern-suburbs,2,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1136,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1137,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1138,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,4000000
+1139,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1140,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1141,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1142,city-bowl,1,5,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+1143,southern-suburbs,3,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1144,city-bowl,2,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1145,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+1146,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,4,house,4000000
+1147,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1148,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1149,city-bowl,3,3,300,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1150,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1151,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1152,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1153,southern-suburbs,1,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1154,city-bowl,2,2,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1155,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1156,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1157,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1158,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,4600000
+1159,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1160,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1161,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1162,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1163,southern-suburbs,1,3,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1164,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1165,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1166,southern-suburbs,3,3,800,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1167,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1168,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1169,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1170,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,5,house,3000000
+1171,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+1172,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+1173,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1174,city-bowl,2,3,400,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1175,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1176,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,5,house,3000000
+1177,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1178,southern-suburbs,3,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,1000000
+1179,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1180,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1181,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1182,city-bowl,1,3,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1183,southern-suburbs,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,5000000
+1184,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1185,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,5,house,2000000
+1186,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1187,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1188,southern-suburbs,1,6,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1189,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1190,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1191,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1192,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1193,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1194,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1195,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,6,house,2000000
+1196,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1197,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1198,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1199,city-bowl,2,3,300,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1200,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1201,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1202,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1203,southern-suburbs,1,6,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,2000000
+1204,city-bowl,3,5,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1205,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,6,house,2000000
+1206,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1207,city-bowl,1,6,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,8000000
+1208,southern-suburbs,4,5,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1209,city-bowl,5,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1210,southern-suburbs,4,4,800,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1211,southern-suburbs,3,3,700,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,6,house,5950000
+1212,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1000000
+1213,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1214,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1215,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,5000000
+1216,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1217,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1218,southern-suburbs,6,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1219,city-bowl,7,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+1220,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1221,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1222,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1223,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,4600000
+1224,city-bowl,2,4,200,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1225,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,6,house,2000000
+1226,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1227,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1228,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1229,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1230,southern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+1231,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1232,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1233,southern-suburbs,4,2,NaN,29-05-2018 15:38,TRUE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1234,city-bowl,5,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1235,southern-suburbs,5,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,5,house,6750000
+1236,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1237,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1238,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1239,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1240,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+1241,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1242,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1243,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,3000000
+1244,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1245,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,3000000
+1246,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1247,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1248,southern-suburbs,7,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1249,city-bowl,6,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1250,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1251,southern-suburbs,3,3,600,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1252,city-bowl,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1253,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1254,city-bowl,2,2,400,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1255,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1256,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1257,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1258,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1259,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,5000000
+1260,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1261,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1262,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1263,southern-suburbs,3,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1264,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,6000000
+1265,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,5,house,2000000
+1266,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1267,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1268,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,3,apartment,3000000
+1269,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,1000000
+1270,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1271,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1272,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1273,southern-suburbs,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1274,city-bowl,3,4,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1275,southern-suburbs,2,4,500,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1276,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1277,city-bowl,1,7,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,1695000
+1278,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1279,city-bowl,2,3,100,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1280,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,4,house,6750000
+1281,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,2000000
+1282,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,4,house,3000000
+1283,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1284,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1285,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1286,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1287,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+1288,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+1289,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1290,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1291,southern-suburbs,3,3,300,31-05-2018 14:44,TRUE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1292,city-bowl,1,4,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,4,house,3000000
+1293,southern-suburbs,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,4600000
+1294,city-bowl,2,4,124,04-07-2016 10:26,TRUE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1295,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1296,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1297,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1298,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1299,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1300,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1301,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,3000000
+1302,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+303,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1304,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1305,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,2000000
+1306,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1307,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1308,southern-suburbs,1,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1309,city-bowl,2,4,200,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1310,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,3,house,3000000
+1311,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1312,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1313,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4000000
+114,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,3,apartment,4000000
+1315,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1316,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1317,city-bowl,1,2,NaN,16-05-2018 12:23,TRUE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,5000000
+1318,southern-suburbs,3,0,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1319,city-bowl,2,0,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1320,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,3,house,4000000
+1321,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1322,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,6000000
+1323,southern-suburbs,1,1,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1324,city-bowl,3,1,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1325,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1326,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,4000000
+1327,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,7000000
+1328,southern-suburbs,3,2,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,3000000
+1329,city-bowl,2,2,300,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1330,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1331,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1332,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,3,house,8000000
+1333,southern-suburbs,1,3,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1334,city-bowl,2,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,2000000
+1335,southern-suburbs,4,4,400,21-10-2016 09:30,TRUE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1336,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1337,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,2000000
+1338,southern-suburbs,3,4,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,4,apartment,4000000
+1339,city-bowl,2,4,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,3000000
+1340,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1341,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1342,city-bowl,1,7,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,3000000
+1343,southern-suburbs,3,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,4600000
+1344,city-bowl,2,5,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,1,apartment,4000000
+1345,southern-suburbs,4,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,4000000
+1346,southern-suburbs,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,2,house,5950000
+1347,city-bowl,1,2,NaN,16-05-2018 12:23,FALSE,Observatory,https://www.pamgolding.co.za/property-details/...,105,NaN,house,4000000
+1348,southern-suburbs,1,5,NaN,29-05-2018 15:38,FALSE,Riebeek Valley,https://www.pamgolding.co.za/property-details/...,238,2,apartment,2000000
+1349,city-bowl,3,3,124,04-07-2016 10:26,FALSE,Strand South,https://www.pamgolding.co.za/property-details/...,124,3,apartment,2000000
+1350,southern-suburbs,2,4,400,21-10-2016 09:30,FALSE,Ceres,https://www.pamgolding.co.za/property-details/...,500,NaN,house,6750000
+1351,city-bowl,3,3,300,31-05-2018 14:44,FALSE,La Sandra,https://www.pamgolding.co.za/property-details/...,1240,0,house,7000000
